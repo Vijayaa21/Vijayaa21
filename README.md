@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Vijaya Mishra
-- 👀 I’m interested in 
 - 🌱 I’m currently learning Web Dev
 - 📫 Reach me on Twitter
 - 😄 Pronouns: She/Her
