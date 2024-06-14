@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vijaya Mishra</h1>
-<h3 align="center">A passionate frontend developer from India and a Aspiring Software.</h3>
+<h3 align="center">A passionate frontend developer from India and Aspiring Software.</h3>
 
 - 📫 How to reach me **vijayam0421@gmail.com**
 
