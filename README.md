@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijaya Mishra</h1>
-<h3 align="center">A passionate frontend developer from India and a Aspiring Software.</h3>
+<h3 align="center">A passionate frontend developer from India and a Aspiring Software Engineer.</h3>
 
 <p align="left"> <a href="https://twitter.com/vijayaa_21" target="blank"><img src="https://img.shields.io/twitter/follow/vijayaa_21?logo=twitter&style=for-the-badge" alt="vijayaa_21" /></a> </p>
 
