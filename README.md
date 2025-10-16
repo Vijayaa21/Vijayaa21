@@ -1,121 +1,78 @@
-<!-- 💫 Vijaya Mishra GitHub Profile README -->
-
 <h1 align="center">Hi 👋, I'm Vijaya Mishra</h1>
-<h3 align="center">💻 Passionate Frontend Developer | 🌱 Aspiring Software Engineer from India 🇮🇳</h3>
+<h3 align="center">💻 Full Stack Developer | Tech Enthusiast | Lifelong Learner 🚀</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250" alt="Coding GIF"/>
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="250" alt="Typing GIF"/>
-</p>
 
-<p align="center">
-  <a href="https://twitter.com/vijayaa_21" target="blank">
-    <img src="https://img.shields.io/twitter/follow/vijayaa_21?logo=twitter&style=for-the-badge" alt="vijayaa_21"/>
+
+---
+
+### 💫 About Me
+
+✨ I'm **Vijaya Mishra**, a passionate **Full Stack Developer** from India, who enjoys transforming creative ideas into impactful digital products.  
+I love exploring the intersection of **technology, design, and innovation**, continuously learning to push the boundaries of what’s possible with code.
+
+- 🔭 Currently exploring **LLMs, RAG, and AI-driven Web Solutions**
+- 💬 Ask me about **React, Django, APIs, and Full-Stack Development**
+- 🧠 I enjoy solving real-world problems and turning challenges into learning opportunities
+- ⚡ Fun fact: *I love adding small creative touches like “+” counters in animations!*
+- 📫 Reach me at: **vijayam0421@gmail.com**
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://twitter.com/vijayaa_21" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/in/vijaya-mishra21" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/vijaya-mishra21" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://medium.com/@vijayam0421" target="blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  <a href="https://medium.com/@vijayam0421" target="_blank">
+    <img src="https://skillicons.dev/icons?i=medium" width="40" height="40" alt="Medium"/>
   </a>
-  <a href="https://leetcode.com/vijayaa/" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <a href="https://www.leetcode.com/vijayaa/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="40" height="40" alt="LeetCode"/>
   </a>
 </p>
 
 ---
 
-### 🧠 About Me  
-✨ I’m a developer who loves crafting responsive and meaningful user experiences with clean, maintainable code.  
-🌱 Currently exploring **AI-powered web apps**, **Next.js**, and **FastAPI**.  
-💬 Ask me about **React, Django, REST APIs, and UI Development**.  
-📫 Reach me at: **vijayam0421@gmail.com**  
-⚡ Fun Fact: *When I'm not coding, I'm adding that extra bit of magic — like a plus sign after every count just for flair!* ✨  
-
----
-
-## 🚀 Tech Stack  
-
-<div align="center">
-
-### 🧠 Programming Languages  
-<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/></a>
-<a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/></a>
-
-<hr width="200"/>
-
-### ⚙️ Frameworks & Libraries  
-<a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" alt="React"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="45" alt="Next.js"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" alt="Django"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="45" alt="FastAPI"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="45" alt="Express.js"/></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" alt="Bootstrap"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind CSS"/></a>
-<a href="https://tanstack.com/query" target="_blank"><img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="45" alt="React Query"/></a>
-
-<hr width="200"/>
-
-### 🗄️ Databases & Tools  
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45" alt="MongoDB"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/></a>
-<a href="https://cloudinary.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-cloudinary-3521470-2944876.png?f=webp&w=256" width="45" alt="Cloudinary"/></a>
-<a href="https://jwt.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="45" alt="JWT"/></a>
-<a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5955/5955350.png" width="45" alt="Cookies"/></a>
-
-<hr width="200"/>
-
-### 🧩 Concepts & Practices  
-<img src="https://cdn-icons-png.flaticon.com/512/3940/3940056.png" width="40" title="Data Structures & Algorithms" alt="DSA"/>
-<img src="https://cdn-icons-png.flaticon.com/512/1548/1548580.png" width="40" title="REST API Design" alt="API Design"/>
-<img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="40" title="Authentication & Authorization" alt="Auth"/>
-<img src="https://cdn-icons-png.flaticon.com/512/846/846449.png" width="40" title="Deployment" alt="Deployment"/>
-
-<hr width="200"/>
-
-### 💡 APIs & Integrations  
-<a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="45" alt="Gemini API"/></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" alt="Postman"/></a>
-
-<hr width="200"/>
-
-### 🧰 Languages and Tools (Icon Grid)
-<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" width="45" alt="Django"/></a>
-<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="45" alt="Next.js"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB"/></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="45" alt="Bootstrap"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/></a>
-
-</div>
-
----
-
-## 📊 GitHub Stats  
+### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayaa21&theme=highcontrast" alt="streak"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,nextjs,django,fastapi,nodejs,express,bootstrap,tailwind,mongodb,git,github,postman" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/cloud.png" height="45" alt="Cloudinary"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-json-web-token-coding-and-development-flat-flat-juicy-fish.png" height="45" alt="JWT"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijayaa21&show_icons=true&theme=highcontrast" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayaa21&show_icons=true&theme=highcontrast&layout=compact" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijayaa21&show_icons=true&theme=highcontrast" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayaa21&theme=highcontrast" alt="GitHub Streak Stats" height="165"/>
 </p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayaa21&show_icons=true&theme=highcontrast&layout=compact" alt="langs"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Developer at work"/>
 </p>
 
 ---
 
-## ✨ Quote that Keeps Me Going  
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
+<h3 align="center">✨ Keep learning. Keep building. Keep growing. ✨</h3>
+
+<p align="center">⭐️ From <a href="https://github.com/vijayaa21">Vijaya Mishra</a></p>
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/vijayaa21">Vijaya Mishra</a> with ❤️</p>
+
+
+> *"Code is not just about solving problems — it's about creating possibilities.  
+Keep your curiosity alive, your code clean, and your dreams even cleaner."* 💫
