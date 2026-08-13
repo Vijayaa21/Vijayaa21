@@ -1,79 +1,50 @@
-<h1 align="center">Hi 👋, I'm Vijaya Mishra</h1>
-<h3 align="center">💻 Full Stack Developer | Tech Enthusiast | Lifelong Learner 🚀</h3>
+<div align="center">
 
+## 👋 Hello World, I'm **Vijaya Mishra**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayaa21&label=Profile%20views&color=0e75b6&style=flat" alt="vijayaa21" /> </p>
+🚀 👋 Hi, I'm Vijaya Mishra — a passionate Full Stack Developer and Tech Enthusiast who loves building impactful web solutions with React, Django, and Next.js. 
 
----
+![Visitor Count](https://visitcount.itsvg.in/api?id=Vijayaa21&icon=5&color=6) [![GitHub Follow](https://img.shields.io/github/followers/Vijayaa21?label=Follow&style=social)](https://github.com/Vijayaa21)
 
-### 💫 About Me
+</div>
 
-✨ I'm **Vijaya Mishra**, a passionate **Full Stack Developer** from India, who enjoys transforming creative ideas into impactful digital products.  
-I love exploring the intersection of **technology, design, and innovation**, continuously learning to push the boundaries of what’s possible with code.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&size=24&color=70a5fd&background=00000000&center=true&vCenter=true&width=500&height=50&lines=Full-Stack%20Developer%20%F0%9F%9B%A0%EF%B8%8F&lines=TypeScript%20Enthusiast%20%F0%9F%92%99&lines=Building%20the%20future%20%E2%9C%A8&duration=4000&pause=1000&repeat=true)](https://github.com/Vijayaa21)
 
-- 🔭 Currently exploring **LLMs, RAG, and AI-driven Web Solutions**
-- 💬 Ask me about **React, Django, APIs, and Full-Stack Development**
-- 🧠 I enjoy solving real-world problems and turning challenges into learning opportunities
-- ⚡ Fun fact: *I love adding small creative touches like “+” counters in animations!*
-- 📫 Reach me at: **vijayam0421@gmail.com**
+## 👨‍💻 About Me
 
----
+- 🌐 **Portfolio:** [https://portfoliov2-omega-rust.vercel.app/](https://portfoliov2-omega-rust.vercel.app/)
+- 👤 **Pronouns:** She/Her
 
-### 🌐 Connect with me
-
-<p align="left">
-  <a href="https://twitter.com/vijayaa_21" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/vijaya-mishra21" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@vijayam0421" target="_blank">
-    <img src="https://skillicons.dev/icons?i=medium" width="40" height="40" alt="Medium"/>
-  </a>
-  <a href="https://www.leetcode.com/vijayaa/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="40" height="40" alt="LeetCode"/>
-  </a>
-</p>
-
----
-
-### 🚀 Tech Stack
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,nextjs,django,fastapi,nodejs,express,bootstrap,tailwind,mongodb,git,github,postman" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/cloud.png" height="45" alt="Cloudinary"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-json-web-token-coding-and-development-flat-flat-juicy-fish.png" height="45" alt="JWT"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vijayaa21&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="180em" referrerpolicy="no-referrer" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayaa21&theme=tokyonight&hide_border=false&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages" height="180em" referrerpolicy="no-referrer" />
 </p>
 
----
-
-### 📊 GitHub Stats
+## 🔥 My Coding Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijayaa21&show_icons=true&theme=highcontrast" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayaa21&show_icons=true&theme=highcontrast&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijayaa21&theme=tokyonight&hide_border=false" alt="GitHub Streak" referrerpolicy="no-referrer" />
 </p>
+
+## 🐍 My Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayaa21&theme=highcontrast" alt="GitHub Streak Stats" height="165"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vijayaa21/Vijayaa21/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vijayaa21/Vijayaa21/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Vijayaa21/Vijayaa21/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" referrerpolicy="no-referrer" />
+  </picture>
 </p>
 
----
+## 📈 My Contribution Activity
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Developer at work"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijayaa21&theme=tokyo-night&area=true&hide_border=false&custom_title=My+Contribution+Activity&line=70a5fd&point=bf91f3" alt="Activity Graph" referrerpolicy="no-referrer" />
 </p>
 
----
+## 🌐 Connect With Me
 
-<h3 align="center">✨ Keep learning. Keep building. Keep growing. ✨</h3>
-
-<p align="center">⭐️ From <a href="https://github.com/vijayaa21">Vijaya Mishra</a></p>
-
----
-
-
-
-> *"Code is not just about solving problems — it's about creating possibilities.  
-Keep your curiosity alive, your code clean, and your dreams even cleaner."* 💫
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vijayaa21)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vijayaa_21)
